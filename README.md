@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kotsky
-- 👀 I’m software engineer. Back-end, robotics, IoT, embedded. Some exp in AI/ML and Business Analysis.
+- 👀 I’m software engineer: robotics, IoT, embedded. Some exp in AI/ML and Business Analysis.
 - 📫 How to reach me https://www.linkedin.com/in/ruslan-kotvytskyi/
