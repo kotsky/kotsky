@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ruslan, nickname @kotsky
 - 👀 Robotics, IoT, Embedded, AI/ML and Business
-- 📫 How to reach me https://www.linkedin.com/in/ruslan-kotvytskyi/
+- 📫 How to reach me https://www.linkedin.com/in/ruslan-kotvytskyi/ or ruslan@anastasiatech.com
