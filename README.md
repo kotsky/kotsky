@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kotsky
-- 👀 I’m software engineer: robotics, IoT, embedded. Some exp in AI/ML and Business Analysis.
+- 👋 Hi, I’m Ruslan, nickname @kotsky
+- 👀 Robotics, IoT, Embedded, AI/ML and Business
 - 📫 How to reach me https://www.linkedin.com/in/ruslan-kotvytskyi/
